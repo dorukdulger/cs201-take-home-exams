@@ -59,6 +59,7 @@ int main(){
 	ifstream input;
 	double point,limit=0;
 
+
 	vector<string> stuNames;
 	vector<string> stuIDNum;
 	vector<string> stuLastnames;
